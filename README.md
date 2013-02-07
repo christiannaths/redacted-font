@@ -2,6 +2,8 @@
 
 Keep your wireframes free of distracting Lorem Ipsum.
 
+![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/screen-shot-01.png "Redacted!")
+
 ### Disclaimer
 
 This project is a (nearly) direct rip-off of BLOKK (http://blokkfont.com). The idea is simple and brilliant, but I wasn't happy with the implementation and it didn't appear to be an open source project, so I created my own. Credit where credit is due.
