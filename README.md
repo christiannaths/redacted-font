@@ -2,7 +2,14 @@
 
 Keep your wireframes free of distracting Lorem Ipsum.
 
-![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/screen-shot-01.png "Redacted!")
+## Redacted Regular
+![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/redacted-regular-screenshot-01.png "Redacted!")
+
+## Redacted Script
+![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/redacted-script-regular-screenshot-01.png "Redacted!")
+
+## Redacted Script Bold
+![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/redacted-script-bold-screenshot-01.png "Redacted!")
 
 ## Disclaimer
 
