@@ -18,12 +18,14 @@ This project is a (nearly) direct rip-off of BLOKK (http://blokkfont.com). The i
 ## FAQ
 
 - **Q: What's different about this compared to BLOKK?**
-A: Oddly, BLOKK has unusually large character widths, which adds much length to "standard" bits of dummy text, and also creates unecessarily ragged rags in my copy. Redacted solves this by using sane character widths; matching narrow, regular, and wide blocks to their respective characters. This gives a more realistic look to the text and helps it fit into narrow columns like real text would.
-
-- **Q: Isn't this a lot of work for a relatively small change?**
- A: I'm a nerd, and it was fun.
+A: BLOKK has unusually large character widths, which adds much length to "standard" bits of dummy text, and also creates unecessarily ragged rags in my copy. Redacted solves this by using sane character widths; averaging character widths of narrow, regular, and wide characters of standard fonts. This gives a more realistic look to the text and helps it fit into narrow columns like real text would. Redacted Font also comes with script versions in two weights: bold and regular.
 
 
 ## License
 
-You are free to use any of the Redacted Fonts (the "font") in any personal or commercial work without obligation of payment (monetary or otherwise) or attribution. Do not redistribute for sale and do not claim creative credit. The font must remain free and open source.
+Copyright (c) 2013, Christian Naths (http://christiannaths.com),
+with Reserved Font Names: Redacted Regular, Redacted Script Regular, Redacted Script Bold.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is included in this repository (OFL.txt), and is also available with a FAQ at:
+http://scripts.sil.org/OFL
