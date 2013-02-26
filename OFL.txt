@@ -1,5 +1,4 @@
-Copyright (c) 2013, Christian Naths (http://christiannaths.com),
-with Reserved Font Names: Redacted Regular, Redacted Script Regular, Redacted Script Bold.
+Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
