@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=800" />
+      <title>Redacted</title>
+      <link href="https://raw.github.com/necolas/normalize.css/master/normalize.css" rel="stylesheet" />
+      <link href="./redacted.css" rel="stylesheet" />
+      <style>
+        body {
+          background: rgb(240, 240, 240);
+          color: rgb(40, 40, 40);
+          font-family: Helvetica;
+          line-height: 1.5em;
+          text-rendering: optimizeLegibility;
+        }
+
+        .wrap {
+          padding: 8%;
+        }
+          .full {
+            display: -webkit-flex;
+            -webkit-flex-direction: row;
+            -webkit-justify-content: space-between;
+          }
+            .full:after, .full:before {
+              content: ' ';
+              clear: both;
+              display: table;
+            }
+          .flex {
+            -webkit-flex: 1;
+          }
+        .spacer {
+          width: 90%;
+        }
+
+        .regular {
+          font-family: Redacted;
+        }
+        .script {
+          font-family: 'Redacted script';
+        }
+        .script-bold {
+          font-family: 'Redacted script';
+          font-weight: bold;
+        }
+
+        @media only screen and (max-width: 960px) {
+          .full {
+            -webkit-flex-direction: column;
+          }
+          .spacer {
+            width: auto;
+          }
+        }
+
+      </style>
+  </head>
+  <body>
+
+    <div class="wrap">
+
+      <header role="banner">
+        <h1>REDACTED FONT</h1>
+      </header>
+
+      <div class="full" role="main">
+        <div class="flex">
+          <div class="spacer">
+            <h3>Redacted regular</h3>
+            <p class="regular">
+              From this day forward, Flight Control will be known by two words:
+              'Tough' and 'Competent.' Tough means we are forever accountable for
+              what we do or what we fail to do. We will never again compromise our
+              responsibilities. Every time we walk into Mission Control we will
+              know what we stand for. Competent means we will never take anything
+              for granted. We will never be found short in our knowledge and in our
+              skills. Mission Control will be perfect. When you leave this meeting
+              today you will go to your office and the first thing you will do
+              there is to write 'Tough and Competent' on your blackboards. It will
+              never be erased. Each day when you enter the room these words will
+              remind you of the price paid by Grissom, White, and Chaffee. These
+              words are the price of admission to the ranks of Mission Control.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex">
+          <div class="spacer">
+            <h3>Redacted script</h3>
+            <p class="script">
+              From this day forward, Flight Control will be known by two words:
+              'Tough' and 'Competent.' Tough means we are forever accountable for
+              what we do or what we fail to do. We will never again compromise our
+              responsibilities. Every time we walk into Mission Control we will
+              know what we stand for. Competent means we will never take anything
+              for granted. We will never be found short in our knowledge and in our
+              skills. Mission Control will be perfect. When you leave this meeting
+              today you will go to your office and the first thing you will do
+              there is to write 'Tough and Competent' on your blackboards. It will
+              never be erased. Each day when you enter the room these words will
+              remind you of the price paid by Grissom, White, and Chaffee. These
+              words are the price of admission to the ranks of Mission Control.
+            </p>
+          </div>
+        </div>
+
+        <div class="flex">
+          <div class="spacer">
+            <h3>Redacted script bold</h3>
+            <p class="script-bold">
+              From this day forward, Flight Control will be known by two words:
+              'Tough' and 'Competent.' Tough means we are forever accountable for
+              what we do or what we fail to do. We will never again compromise our
+              responsibilities. Every time we walk into Mission Control we will
+              know what we stand for. Competent means we will never take anything
+              for granted. We will never be found short in our knowledge and in our
+              skills. Mission Control will be perfect. When you leave this meeting
+              today you will go to your office and the first thing you will do
+              there is to write 'Tough and Competent' on your blackboards. It will
+              never be erased. Each day when you enter the room these words will
+              remind you of the price paid by Grissom, White, and Chaffee. These
+              words are the price of admission to the ranks of Mission Control.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </body>
+</html>
