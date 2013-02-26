@@ -13,19 +13,15 @@ Keep your wireframes free of distracting Lorem Ipsum.
 
 ## Disclaimer
 
-This project is a (nearly) direct rip-off of BLOKK (http://blokkfont.com). The idea is simple and brilliant, but I wasn't happy with the implementation and it didn't appear to be an open source project, so I created my own. Credit where credit is due.
+This project is directly inspired by the [BLOKK font](http://blokkfont.com). The idea is simple and brilliant, but I wasn't happy with functional aspects of that implementation of the idea, and it isn't an open source project, so I created my own. Credit where credit is due.
 
 ## FAQ
 
 - **Q: What's different about this compared to BLOKK?**
-A: BLOKK has unusually large character widths, which adds much length to "standard" bits of dummy text, and also creates unecessarily ragged rags in my copy. Redacted solves this by using sane character widths; averaging character widths of narrow, regular, and wide characters of standard fonts. This gives a more realistic look to the text and helps it fit into narrow columns like real text would. Redacted Font also comes with script versions in two weights: bold and regular.
-
+A: BLOKK has unusually large character widths, which adds much length to "standard" bits of dummy text, and also creates unecessarily ragged rags in my copy. Redacted solves this by using sane character widths; averaging character widths of narrow, regular, and wide characters of standard fonts. This gives a more realistic look to the text and helps it fit into narrow columns like real text would. Redacted Font also comes with script versions in two weights, regular and bold.
 
 ## License
 
-Copyright (c) 2013, Christian Naths (http://christiannaths.com),
-with Reserved Font Names: Redacted Regular, Redacted Script Regular, Redacted Script Bold.
+Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is included in this repository (OFL.txt), and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is included in this repository (OFL.txt), and is also available with a FAQ at: http://scripts.sil.org/OFL
