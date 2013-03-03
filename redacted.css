@@ -1,0 +1,38 @@
+
+/**
+ * Block.
+ */
+
+@font-face {
+  font-family: 'Redacted';
+  font-weight: normal;
+  font-style: normal;
+  src: url('fonts/web/redacted-regular.eot') format('eot'),
+       url('fonts/web/redacted-regular.woff') format('woff'),
+       url('fonts/web/redacted-regular.ttf') format('truetype'),
+       url('fonts/web/redacted-regular.svg') format('svg');
+}
+
+/**
+ * Script.
+ */
+
+@font-face {
+  font-family: 'Redacted script';
+  font-weight: normal;
+  font-style: normal;
+  src: url('fonts/web/redacted-script.eot') format('eot'),
+       url('fonts/web/redacted-script.woff') format('woff'),
+       url('fonts/web/redacted-script.ttf') format('truetype'),
+       url('fonts/web/redacted-script.svg') format('svg');
+}
+@font-face {
+  font-family: 'Redacted script';
+  font-weight: bold;
+  font-style: normal;
+  src: url('fonts/web/redacted-script-bold.eot') format(eot),
+       url('fonts/web/redacted-script-bold.woff') format('woff'),
+       url('fonts/web/redacted-script-bold.ttf') format('truetype'),
+       url('fonts/web/redacted-script-bold.svg') format('svg');
+}
+

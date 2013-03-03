@@ -1,0 +1,22 @@
+{
+  "name": "redacted-font",
+  "description": "Keep your wireframes free of distracting Lorem Ipsum",
+  "version": "0.0.1",
+  "keywords": ["font", "redacted", "blokk"],
+  "repo": "hkjels/redacted-font",
+  "styles": ["redacted.css"],
+  "fonts": [
+    "fonts/web/redacted-regular.eot",
+    "fonts/web/redacted-regular.svg",
+    "fonts/web/redacted-regular.ttf",
+    "fonts/web/redacted-regular.woff",
+    "fonts/web/redacted-script.eot",
+    "fonts/web/redacted-script.svg",
+    "fonts/web/redacted-script.ttf",
+    "fonts/web/redacted-script.woff",
+    "fonts/web/redacted-script-bold.eot",
+    "fonts/web/redacted-script-bold.svg",
+    "fonts/web/redacted-script-bold.ttf",
+    "fonts/web/redacted-script-bold.woff"
+  ]
+}
