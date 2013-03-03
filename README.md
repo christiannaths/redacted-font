@@ -11,6 +11,9 @@ Keep your wireframes free of distracting Lorem Ipsum.
 ## Redacted Script Bold
 ![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/redacted-script-bold-screenshot-01.png "Redacted!")
 
+## Redacted Script Light
+![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/redacted-script-light-screenshot-01.png "Redacted!")
+
 ## Disclaimer
 
 This project is directly inspired by the [BLOKK font](http://blokkfont.com). The idea is simple and brilliant, but I wasn't happy with functional aspects of that implementation of the idea, and it isn't an open source project, so I created my own. Credit where credit is due.
