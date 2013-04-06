@@ -21,7 +21,7 @@ This project is directly inspired by the [BLOKK font](http://blokkfont.com). The
 ## FAQ
 
 - **Q: What's different about this compared to BLOKK?**
-A: BLOKK has unusually large character widths, which adds much length to "standard" bits of dummy text, and also creates unecessarily ragged rags in my copy. Redacted solves this by using sane character widths; averaging character widths of narrow, regular, and wide characters of standard fonts. This gives a more realistic look to the text and helps it fit into narrow columns like real text would. Redacted Font also comes with script versions in two weights, regular and bold.
+A: BLOKK has unusually large character widths, which adds much length to "standard" bits of dummy text, and also creates unecessarily ragged rags in my copy. Redacted solves this by using sane character widths; averaging character widths of narrow, regular, and wide characters of standard fonts. This gives a more realistic look to the text and helps it fit into narrow columns like real text would. Redacted Font also comes with script versions in three weights, regular, bold and light.
 
 ## License
 
