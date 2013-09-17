@@ -159,8 +159,6 @@
 	<integer>-137</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>46</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
 	<key>postscriptWeightName</key>
 	<string>Regular</string>
 	<key>postscriptWindowsCharacterSet</key>

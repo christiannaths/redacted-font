@@ -9,7 +9,9 @@
 <glyph horiz-adv-x="2048" />
 <glyph horiz-adv-x="2048" />
 <glyph unicode="&#xd;" horiz-adv-x="2048" />
-<glyph unicode=" " d="M0 -410v2048h819v-2048h-819zM0 -410v2048h819v-2048h-819z" />
+<glyph unicode=" "  horiz-adv-x="500" />
+<glyph unicode="&#x09;" horiz-adv-x="500" />
+<glyph unicode="&#xa0;" horiz-adv-x="500" />
 <glyph unicode="!" d="M0 -410v2048h819v-2048h-819z" />
 <glyph unicode="&#x22;" d="M0 -410v2048h819v-2048h-819z" />
 <glyph unicode="#" d="M0 -410v2048h819v-2048h-819z" />
