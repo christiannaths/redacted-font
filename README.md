@@ -14,6 +14,30 @@ Keep your wireframes free of distracting Lorem Ipsum.
 ## Redacted Script Light
 ![Redacted Font in action](https://raw.github.com/christiannaths/Redacted-Font/screenshots/screenshots/redacted-script-light-screenshot-01.png "Redacted!")
 
+## Usage
+
+Assuming the font assets reside in a "redacted-font" directory:
+
+```css
+@font-face {
+    font-family: "Redacted";
+    src: url("redacted-font/fonts/web/redacted-regular.eot");
+    src: url("redacted-font/fonts/web/redacted-regular.woff") format("woff"),
+         url("redacted-font/fonts/web/redacted-regular.otf") format("opentype"),
+         url("redacted-font/fonts/web/redacted-regular.svg#filename") format("svg");
+}
+
+.prototype {
+    font-family: "Redacted";
+    color: #999;
+}
+
+.prototype-script {
+    font-family: "Redacted Script";
+    color: #999;
+}
+```
+
 ## Disclaimer
 
 This project is directly inspired by the [BLOKK font](http://blokkfont.com). The idea is simple and brilliant, but I wasn't happy with functional aspects of that implementation of the idea, and it isn't an open source project, so I created my own. Credit where credit is due.
