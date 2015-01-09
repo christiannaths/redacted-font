@@ -6,6 +6,7 @@
     font-family: 'redactedregular';
     src: url('redacted-regular.eot');
     src: url('redacted-regular.eot?#iefix') format('embedded-opentype'),
+         url('redacted-regular.woff2') format('woff2'),
          url('redacted-regular.woff') format('woff'),
          url('redacted-regular.ttf') format('truetype'),
          url('redacted-regular.svg#redactedregular') format('svg');
@@ -21,6 +22,7 @@
     font-family: 'redacted_scriptbold';
     src: url('redacted-script-bold.eot');
     src: url('redacted-script-bold.eot?#iefix') format('embedded-opentype'),
+         url('redacted-script-bold.woff2') format('woff2'),
          url('redacted-script-bold.woff') format('woff'),
          url('redacted-script-bold.ttf') format('truetype'),
          url('redacted-script-bold.svg#redacted_scriptbold') format('svg');
@@ -36,6 +38,7 @@
     font-family: 'redacted_scriptlight';
     src: url('redacted-script-light.eot');
     src: url('redacted-script-light.eot?#iefix') format('embedded-opentype'),
+         url('redacted-script-light.woff2') format('woff2'),
          url('redacted-script-light.woff') format('woff'),
          url('redacted-script-light.ttf') format('truetype'),
          url('redacted-script-light.svg#redacted_scriptlight') format('svg');
@@ -51,6 +54,7 @@
     font-family: 'redacted_scriptregular';
     src: url('redacted-script-regular.eot');
     src: url('redacted-script-regular.eot?#iefix') format('embedded-opentype'),
+         url('redacted-script-regular.woff2') format('woff2'),
          url('redacted-script-regular.woff') format('woff'),
          url('redacted-script-regular.ttf') format('truetype'),
          url('redacted-script-regular.svg#redacted_scriptregular') format('svg');

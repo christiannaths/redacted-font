@@ -22,7 +22,8 @@ Assuming the font assets reside in a "redacted-font" directory:
 @font-face {
     font-family: "Redacted";
     src: url("redacted-font/fonts/web/redacted-regular.eot");
-    src: url("redacted-font/fonts/web/redacted-regular.woff") format("woff"),
+    src: url("redacted-font/fonts/web/redacted-regular.woff2") format("woff2"),
+         url("redacted-font/fonts/web/redacted-regular.woff") format("woff"),
          url("redacted-font/fonts/web/redacted-regular.otf") format("opentype"),
          url("redacted-font/fonts/web/redacted-regular.svg#filename") format("svg");
 }
