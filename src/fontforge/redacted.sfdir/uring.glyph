@@ -1,0 +1,10 @@
+StartChar: uring
+Encoding: 265 367 266
+Width: 448
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Fore
+Refer: 2 -1 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,16 @@
+StartChar: template.1
+Encoding: 332 -1 2
+Width: 448
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Fore
+SplineSet
+0 -200 m 1
+ 0 824 l 1
+ 512 824 l 1
+ 512 -200 l 1
+ 0 -200 l 1
+EndSplineSet
+EndChar
