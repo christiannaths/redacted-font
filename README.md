@@ -1,4 +1,4 @@
-![travis build status](https://travis-ci.org/christiannaths/Redacted-Font.svg?branch=master)
+[![Build Status](https://travis-ci.org/christiannaths/Redacted-Font.svg?branch=master)](https://travis-ci.org/christiannaths/Redacted-Font)
 
 
 # Redacted: A Font for Web and Desktop
