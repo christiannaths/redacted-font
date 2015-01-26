@@ -1,3 +1,6 @@
+![travis build status](https://travis-ci.org/christiannaths/Redacted-Font.svg?branch=master)
+
+
 # Redacted: A Font for Web and Desktop
 
 Keep your wireframes free of distracting Lorem Ipsum.
