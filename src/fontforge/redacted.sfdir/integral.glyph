@@ -1,0 +1,10 @@
+StartChar: integral
+Encoding: 324 8747 325
+Width: 448
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Fore
+Refer: 2 -1 N 1 0 0 1 0 0 2
+EndChar

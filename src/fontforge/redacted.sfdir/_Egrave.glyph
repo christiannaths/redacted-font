@@ -1,0 +1,10 @@
+StartChar: Egrave
+Encoding: 136 200 138
+Width: 448
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Fore
+Refer: 2 -1 N 1 0 0 1 0 0 2
+EndChar
