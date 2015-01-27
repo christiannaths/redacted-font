@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Imacron" format="1">
-  <advance width="375"/>
-  <unicode hex="012A"/>
-  <outline>
-    <component base="_base"/>
-  </outline>
-</glyph>

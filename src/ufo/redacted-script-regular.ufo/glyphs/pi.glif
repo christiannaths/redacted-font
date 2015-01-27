@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="pi" format="1">
-  <advance width="532"/>
-  <unicode hex="03C0"/>
-  <outline>
-    <component base="_base_lower_1"/>
-  </outline>
-</glyph>

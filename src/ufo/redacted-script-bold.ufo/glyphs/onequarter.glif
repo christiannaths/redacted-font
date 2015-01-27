@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onequarter" format="1">
-  <advance width="389"/>
-  <unicode hex="00BC"/>
-  <outline>
-    <component base="_base_lower_3"/>
-  </outline>
-</glyph>
