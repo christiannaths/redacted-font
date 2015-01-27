@@ -1,0 +1,359 @@
+Project:
+  error:
+  - autofix: false
+    err_msg: ''
+    methodDoc: Check that diacritic glyph are made completely with composite
+    methodName: test_diacritic_made_as_component
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: &id001 [upstream-repo]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Check that diacritic glyph are made completely with mark method
+    methodName: test_diacritic_made_as_mark_to_mark
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id001
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Check that diacritic glyph are made completely with flat method
+    methodName: test_diacritic_made_as_own_glyphs
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id001
+    tool: lint
+  failure:
+  - autofix: false
+    err_msg: File `bakery.yaml` does not exist in root of upstream repository
+    methodDoc: Repository contains bakery.yaml configuration file?
+    methodName: test_bakery_yaml_exists
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: &id002 [upstream-repo]
+    tool: lint
+  - autofix: false
+    err_msg: File `DESCRIPTION.en_us.html` does not exist in root of upstream repository
+    methodDoc: Repository contains DESCRIPTION.en_us.html file?
+    methodName: test_description_html_exists
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: *id002
+    tool: lint
+  - autofix: false
+    err_msg: File `FONTLOG.txt` does not exist in root of upstream repository
+    methodDoc: Repository contains FONTLOG.txt file?
+    methodName: test_fontlog_txt_exists
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: *id002
+    tool: lint
+  - autofix: false
+    err_msg: File `METADATA.json` does not exist in root of upstream repository
+    methodDoc: Repository contains METADATA.json file?
+    methodName: test_metadata_json_exists
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: *id002
+    tool: lint
+  - autofix: false
+    err_msg: 98 != 100
+    methodDoc: Is latin covered 100%?
+    methodName: test_charset_latin
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: [upstream-repo]
+    tool: PyFontaine
+  fixed: []
+  passed: true
+  success:
+  - autofix: false
+    err_msg: ''
+    methodDoc: Each font in family has matching glyph names?
+    methodName: test_family_glyph_names_match
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: &id003 [upstream-repo]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Check that glyphs has same number of contours across family
+    methodName: test_font_prepolation_glyph_contours
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: *id003
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Check that glyphs has same number of points across family
+    methodName: test_font_prepolation_glyph_points
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: *id003
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Each font copyright notice matches?
+    methodName: test_copyright_notices_same_across_family
+    name: bakery_lint.fonttests.test_upstream
+    tags: [note]
+    targets: *id002
+    tool: lint
+Redacted-Regular.ufo:
+  error:
+  - autofix: false
+    err_msg: 'unsupported operand type(s) for -: ''NoneType'' and ''int'''
+    methodDoc: Points shouldn't be just off a vertical metric.
+    methodName: test_for_segments_near_vmet
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: '''RContour'' object has no attribute ''extremePoints'''
+    methodDoc: One or more curves need an extreme point.
+    methodName: test_for_extreme_points
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  failure:
+  - autofix: false
+    err_msg: '''ascii'' codec can''t encode character u''\u20b9'' in position 28:
+      ordinal not in range(128)'
+    methodDoc: '''ascii'' codec can''t encode character u''\u20b9'' in position 35:
+      ordinal not in range(128)'
+    methodName: test_has_rupee
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: &id004 [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: None != [0]
+    methodDoc: UFO OS/2 table fsType set to 0?
+    methodName: test_is_fsType_zero
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id004
+    tool: lint
+  - autofix: false
+    err_msg: Unicode value of glyph twosuperior does not match glyph name from fontTools
+      AGL2UV
+    methodDoc: Font unicode values are unique?
+    methodName: test_unique_unicode_values
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  fixed: []
+  passed: true
+  success:
+  - autofix: false
+    err_msg: ''
+    methodDoc: The side-bearings don't match the component's metrics.
+    methodName: test_component_metrics
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Consequtive points should not overlap.
+    methodName: test_for_overlapping_points
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Consecutive segments shouldn't have the same angle.
+    methodName: test_for_unnecessary_points
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: There should be no stray points.
+    methodName: test_for_stray_points
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: One or more curves has uneven handles.
+    methodName: test_for_uneven_handles
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: One or more curves has unnecessary handles.
+    methodName: test_for_unnecessary_handles
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: One or more curves contain crossed handles.
+    methodName: test_for_crossed_handles
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: One or more curves is suspiciously complex.
+    methodName: test_for_complex_curves
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Smooth segments should have bcps in the right places.
+    methodName: test_unsmooth_smooths
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: Lines shouldn't be just shy of vertical or horizontal.
+    methodName: test_for_straight_lines
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: One or more contours are not properly closed.
+    methodName: test_for_open_contours
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: One or more contours are suspiciously small.
+    methodName: test_for_small_contours
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: One or more contours are duplicated.
+    methodName: test_duplicate_contours
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: The side-bearings don't match the ligature's presumed part metrics.
+    methodName: test_ligature_metrics
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: The side-bearings are almost equal.
+    methodName: test_metrics_symmetry
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: [upstream]
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: <Family Name> limitation is 32 chars
+    methodName: test_familyname_less_than_32_chars
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: &id005 [upstream]
+    tool: FontForge
+  - autofix: false
+    err_msg: ''
+    methodDoc: <Full name> limitation is < 64 chars
+    methodName: test_fullfontname_less_than_64_chars
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id005
+    tool: FontForge
+  - autofix: false
+    err_msg: ''
+    methodDoc: <Postscript name> may contain only a-zA-Z0-9 and one hyphen
+    methodName: test_postscriptname_consistof_allowed_chars
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id005
+    tool: FontForge
+  - autofix: false
+    err_msg: ''
+    methodDoc: <Postscript name> limitation is < 30 chars
+    methodName: test_postscriptname_less_than_30_chars
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id005
+    tool: FontForge
+  - autofix: false
+    err_msg: ''
+    methodDoc: <Style Name> limitation is 32 chars
+    methodName: test_stylename_less_than_32_chars
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id005
+    tool: FontForge
+  - autofix: false
+    err_msg: ''
+    methodDoc: <Weight> value >= 250 and <= 900 in steps of 50
+    methodName: test_weight_value_range_between_250_and_900
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id005
+    tool: FontForge
+  - autofix: false
+    err_msg: ''
+    methodDoc: UFO contains a glyph named 'A'?
+    methodName: test_is_A
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id004
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: UFO property A is an instance of an RGlyph object?
+    methodName: test_is_A_a_glyph_instance
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id004
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: UFO filename ends with '.ufo'?
+    methodName: test_is_ended_ufo
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id004
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: UFO is a folder?
+    methodName: test_is_folder
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id004
+    tool: lint
+  - autofix: false
+    err_msg: ''
+    methodDoc: UFO exists?
+    methodName: test_it_exists
+    name: bakery_lint.fonttests.test_ufo
+    tags: [note]
+    targets: *id004
+    tool: lint
