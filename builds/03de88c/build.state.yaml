@@ -1,0 +1,9 @@
+autohinting_sizes:
+- {fontname: Redacted-Regular.ttf, origin: 9496, processed: 12752}
+commit: HEAD
+compiler: fontforge
+license: OFL.txt
+process_files: [/Users/christiannaths/Projects/Open-Source/13008-Redacted-Font/redacted-font/builds/03de88c/sources/Redacted-Regular.ufo]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
