@@ -1,0 +1,11 @@
+StartChar: Z
+Encoding: 59 90 16
+Width: 534
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+Refer: 0 -1 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

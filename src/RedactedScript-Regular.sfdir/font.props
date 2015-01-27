@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1422153370
-ModificationTime: 1422386712
+ModificationTime: 1422391576
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -46,7 +46,7 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Christian Naths" "" "https://github.com/christiannaths/Redacted-Font" "http://christiannaths.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
-Encoding: AdobeLatin3-CE
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
