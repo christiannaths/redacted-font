@@ -1,8 +1,8 @@
 StartChar: Emacron
 Encoding: 206 274 208
-Width: 448
+Width: 437
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Back
 Fore

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>familyName</key>
+    <string>Redacted</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>ascender</key>
+    <integer>800</integer>
+    <key>descender</key>
+    <integer>-200</integer>
+    <key>italicAngle</key>
+    <real>0</real>
+    <key>note</key>
+    <string>2015-1-24: Created with FontForge (http://fontforge.org)</string>
+    <key>openTypeHeadCreated</key>
+    <string>2015/01/25 02:36:10</string>
+    <key>openTypeHheaAscender</key>
+    <integer>800</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-200</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>88</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Christian Naths</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://christiannaths.com</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://github.com/christiannaths/Redacted-Font</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 001.001</string>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>PfEd</string>
+    <key>openTypeOS2FamilyClass</key>
+    <array>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>800</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>200</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>90</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>800</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>-200</integer>
+    <key>postscriptFontName</key>
+    <string>Redacted-Regular</string>
+    <key>postscriptFullName</key>
+    <string>Redacted</string>
+    <key>postscriptWeightName</key>
+    <string>Regular</string>
+    <key>postscriptUnderlineThickness</key>
+    <integer>44</integer>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-133</integer>
+  </dict>
+</plist>

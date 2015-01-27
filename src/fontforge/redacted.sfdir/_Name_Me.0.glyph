@@ -1,8 +1,8 @@
 StartChar: NameMe.0
 Encoding: 0 -1 4
-Width: 448
+Width: 437
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Back
 Fore

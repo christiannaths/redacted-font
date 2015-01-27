@@ -1,8 +1,8 @@
 StartChar: lessequal
 Encoding: 327 8804 328
-Width: 448
+Width: 437
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Back
 Fore

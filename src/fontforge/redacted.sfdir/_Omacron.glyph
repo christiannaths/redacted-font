@@ -1,8 +1,8 @@
 StartChar: Omacron
 Encoding: 240 332 241
-Width: 448
+Width: 437
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Back
 Fore
