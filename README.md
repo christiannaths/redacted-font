@@ -20,7 +20,7 @@ Keep your wireframes free of distracting Lorem Ipsum.
 ## Usage
 
 ### Download!
-<a href="/christiannaths/Redacted-Font/archive/old-sources.zip" class="minibutton sidebar-button" aria-label="Download the contents of christiannaths/Redacted-Font as a zip file" title="Download the contents of christiannaths/Redacted-Font as a zip file" rel="nofollow">
+<a href="/christiannaths/Redacted-Font/archive/old-sources.zip" class="minibutton sidebar-button" rel="nofollow">
     <span class="octicon octicon-cloud-download"></span>
     Download Redacted Font
 </a>
