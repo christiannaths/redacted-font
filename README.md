@@ -26,6 +26,7 @@ Keep your wireframes free of distracting Lorem Ipsum.
 </a>
 
 ### Find the files you need!
+Look in the `fonts/` directory for the desktop fonts, and the `fonts/web/` directory for the web fonts.
 
 ### Use!
 Either install the ttf desktop fonts on your machine, or use the fontface kit in the `web/` directory. Assuming the font assets reside in a "redacted-font" directory:
