@@ -19,7 +19,16 @@ Keep your wireframes free of distracting Lorem Ipsum.
 
 ## Usage
 
-Assuming the font assets reside in a "redacted-font" directory:
+### Download!
+<a href="/christiannaths/Redacted-Font/archive/old-sources.zip" class="minibutton sidebar-button" aria-label="Download the contents of christiannaths/Redacted-Font as a zip file" title="Download the contents of christiannaths/Redacted-Font as a zip file" rel="nofollow">
+    <span class="octicon octicon-cloud-download"></span>
+    Download Redacted Font
+</a>
+
+### Find the files you need!
+
+### Use!
+Either install the ttf desktop fonts on your machine, or use the fontface kit in the `web/` directory. Assuming the font assets reside in a "redacted-font" directory:
 
 ```css
 @font-face {
