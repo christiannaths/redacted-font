@@ -20,10 +20,9 @@ Keep your wireframes free of distracting Lorem Ipsum.
 ## Usage
 
 ### Download!
-<a href="/christiannaths/Redacted-Font/archive/old-sources.zip" class="minibutton sidebar-button" rel="nofollow">
-    <span class="octicon octicon-cloud-download"></span>
-    Download Redacted Font
-</a>
+
+[Download the Reacted Font](https://github.com/christiannaths/Redacted-Font/archive/old-sources.zip)
+
 
 ### Find the files you need!
 Look in the `fonts/` directory for the desktop fonts, and the `fonts/web/` directory for the web fonts.
