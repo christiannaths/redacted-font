@@ -1,0 +1,20 @@
+{
+  "name": "redacted-font",
+  "version": "1.0.0",
+  "homepage": "https://github.com/christiannaths/Redacted-Font",
+  "authors": [
+    "Christian Naths <christiannaths@gmail.com>"
+  ],
+  "description": "Redacted: A Font for Web and Desktop",
+  "keywords": [
+    "font",
+    "wireframe",
+    "lorem ipsum"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christiannaths/Redacted-Font"
+  },
+  "license": "SIL Open Font License, Version 1.1"
+  ]
+}
