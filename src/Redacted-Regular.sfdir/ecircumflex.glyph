@@ -1,10 +1,9 @@
 StartChar: ecircumflex
-Encoding: 170 234 172
+Encoding: 234 234 173
 Width: 437
-VWidth: 0
-Flags: HMW
+Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 2 -1 N 1 0 0 1 0 0 2
+Refer: 335 -1 N 1 0 0 1 0 0 2
 EndChar

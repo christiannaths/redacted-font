@@ -1,11 +1,11 @@
 StartChar: ugrave
-Encoding: 185 249 216
+Encoding: 249 249 187
 Width: 586
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 5 -1 N 1 0 0 1 0 0 2
+Refer: 411 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

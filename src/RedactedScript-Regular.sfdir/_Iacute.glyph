@@ -1,11 +1,11 @@
 StartChar: Iacute
-Encoding: 141 205 257
+Encoding: 205 205 143
 Width: 390
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 6 -1 N 1 0 0 1 0 0 2
+Refer: 412 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

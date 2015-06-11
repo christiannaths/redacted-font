@@ -1,19 +1,19 @@
 StartChar: quotesingle
-Encoding: 8 39 102
+Encoding: 39 39 10
 Width: 198
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore
 SplineSet
-117 714 m 1
- 130 712 137 704 138 690 c 2
- 138 681 l 1
- 130 622 127 565 120 477 c 1
- 105 477 87 480 80 487 c 1
- 77 558 71 626 60 693 c 1
- 79 696 102 705 117 714 c 1
+117 714 m 1,0,1
+ 136 711 136 711 138 690 c 2,2,-1
+ 138 681 l 1,3,4
+ 134 649 134 649 120 477 c 1,5,6
+ 90 477 90 477 80 487 c 1,7,8
+ 75 600 75 600 60 693 c 1,9,10
+ 90 698 90 698 117 714 c 1,0,1
 EndSplineSet
 Validated: 1
 EndChar

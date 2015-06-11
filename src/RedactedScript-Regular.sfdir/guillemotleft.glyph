@@ -1,11 +1,11 @@
 StartChar: guillemotleft
-Encoding: 107 171 198
+Encoding: 171 171 109
 Width: 586
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 5 -1 N 1 0 0 1 0 0 2
+Refer: 411 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

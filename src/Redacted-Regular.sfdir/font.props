@@ -2,63 +2,92 @@ SplineFontDB: 3.0
 FontName: Redacted-Regular
 FullName: Redacted
 FamilyName: Redacted
-Weight: Regular
+Weight: Book
 Copyright: Copyright (c) 2013, Christian Naths (christiannaths@gmail.com christiannaths.com)
-UComments: "2015-1-24: Created with FontForge (http://fontforge.org)"
 Version: 001.001
 ItalicAngle: 0
-UnderlinePosition: -133
+UnderlinePosition: -177
 UnderlineWidth: 44
 Ascent: 800
 Descent: 200
 InvalidEm: 0
+sfntRevision: 0x00010041
 LayerCount: 2
-Layer: 0 0 "Back" 1
-Layer: 1 0 "Fore" 0
-XUID: [1021 745 770352787 13550236]
+Layer: 0 1 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A" 1
+Layer: 1 1 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A" 0
+XUID: [1021 573 -306797071 12173308]
+StyleMap: 0x0000
 FSType: 0
-OS2Version: 0
+OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1422153370
-ModificationTime: 1422333707
+ModificationTime: 1434033143
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 88
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+Panose: 2 0 5 9 0 0 0 0 0 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
 OS2TypoLinegap: 90
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
-OS2CapHeight: 0
-OS2XHeight: 0
+OS2WinAscent: 800
+OS2WinAOffset: 0
+OS2WinDescent: 200
+OS2WinDOffset: 0
+HheadAscent: 800
+HheadAOffset: 0
+HheadDescent: -200
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 700
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 700
+OS2SupXOff: 0
+OS2SupYOff: 480
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2CapHeight: 800
+OS2XHeight: 800
 OS2Vendor: 'PfEd'
+OS2CodePages: 20000093.00000000
+OS2UnicodeRanges: 800000af.4000204a.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Christian Naths" "" "https://github.com/christiannaths/Redacted-Font" "http://christiannaths.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
-Encoding: AdobeLatin3-CE
+ShortTable: cvt  2
+  33
+  633
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  336
+  8
+  2
+  4
+  1
+  2
+  0
+  1
+  1
+  0
+  64
+  46
+  1
+  1
+EndShort
+LangName: 1033 "" "" "" "FontForge 2.0 : Redacted : 26-1-2015" "" "" "" "" "" "Christian Naths" "" "https://github.com/christiannaths/Redacted-Font" "http://christiannaths.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+GaspTable: 1 65535 2 0
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -24
 AntiAlias: 1
-FitToEm: 1
-WinInfo: 0 42 16
-BeginPrivate: 0
-EndPrivate
-Grid
--1000 1757.8125 m 0
- 2000 1757.8125 l 1024
--1000 585.9375 m 0
- 2000 585.9375 l 1024
-EndSplineSet
+FitToEm: 0
+WinInfo: 0 64 22
 EndSplineFont
