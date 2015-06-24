@@ -23,6 +23,9 @@ Keep your wireframes free of distracting Lorem Ipsum.
 
 [Download the Reacted Font](https://github.com/christiannaths/Redacted-Font/archive/old-sources.zip)
 
+### Bower Support
+Install using bower
+    bower install Redacted-Font 
 
 ### Find the files you need!
 Look in the `fonts/` directory for the desktop fonts, and the `fonts/web/` directory for the web fonts.

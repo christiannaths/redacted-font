@@ -1,0 +1,21 @@
+{
+  "name": "Redacted-Font",
+  "version": "0.0.0",
+  "homepage": "https://github.com/christiannaths/Redacted-Font",
+  "authors": [
+    "Christian Naths <christiannaths@gmail.com>"
+  ],
+  "description": "Keep your wireframes free of distracting Lorem Ipsum",
+  "keywords": [
+    "wireframe",
+    "font"
+  ],
+  "license": "SIL Open Font License, Version 1.1.",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
