@@ -21,7 +21,7 @@ Keep your wireframes free of distracting Lorem Ipsum.
 
 ### Download!
 
-[Download the Reacted Font](https://github.com/christiannaths/Redacted-Font/archive/old-sources.zip)
+[Download the Redacted Font](https://github.com/christiannaths/Redacted-Font/archive/old-sources.zip)
 
 
 ### Find the files you need!
