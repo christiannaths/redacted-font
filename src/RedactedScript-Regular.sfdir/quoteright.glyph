@@ -1,11 +1,11 @@
 StartChar: quoteright
-Encoding: 295 8217 330
+Encoding: 8217 8217 371
 Width: 242
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 329 8216 S -1 1.22465e-16 -1.22465e-16 -1 248 1193 2
+Refer: 370 8216 N -1 0 -6.10352e-05 -1 248 1193 2
 Validated: 1
 EndChar

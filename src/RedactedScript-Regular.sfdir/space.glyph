@@ -1,8 +1,8 @@
 StartChar: space
-Encoding: 1 32 68
+Encoding: 32 32 3
 Width: 486
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore

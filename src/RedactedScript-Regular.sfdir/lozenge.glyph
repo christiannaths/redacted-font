@@ -1,11 +1,11 @@
 StartChar: lozenge
-Encoding: 329 9674 195
+Encoding: 9674 9674 405
 Width: 392
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 4 -1 N 1 0 0 1 0 0 2
+Refer: 410 -1 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

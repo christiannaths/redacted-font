@@ -1,11 +1,11 @@
 StartChar: Cacute
-Encoding: 198 262 124
+Encoding: 262 262 200
 Width: 278
-VWidth: 0
-Flags: HW
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Back
 Fore
-Refer: 3 -1 N 1 0 0 1 0 0 2
+Refer: 20 49 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
