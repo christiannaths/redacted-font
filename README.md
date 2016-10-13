@@ -40,6 +40,15 @@ Either install the ttf desktop fonts on your machine, or use the fontface kit in
          url("redacted-font/fonts/web/redacted-regular.svg#filename") format("svg");
 }
 
+@font-face {
+    font-family: "Redacted Script";
+    src: url("redacted-font/fonts/web/redacted-script-regular.eot");
+    src: url("redacted-font/fonts/web/redacted-script-regular.woff2") format("woff2"),
+         url("redacted-font/fonts/web/redacted-script-regular.woff") format("woff"),
+         url("redacted-font/fonts/web/redacted-script-regular.otf") format("opentype"),
+         url("redacted-font/fonts/web/redacted-script-regular.svg#filename") format("svg");
+}
+
 .prototype {
     font-family: "Redacted";
     color: #999;
