@@ -327,42 +327,6 @@ name = strikeoutPosition;
 value = 259;
 },
 {
-name = subscriptXSize;
-value = 700;
-},
-{
-name = subscriptYSize;
-value = 650;
-},
-{
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptYOffset;
-value = 143;
-},
-{
-name = superscriptXSize;
-value = 700;
-},
-{
-name = superscriptYSize;
-value = 650;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 453;
-},
-{
-name = blueScale;
-value = 0.03963;
-},
-{
 name = blueShift;
 value = 7;
 },
@@ -381,10 +345,6 @@ value = 46;
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 name = trademark;
@@ -436,14 +396,6 @@ value = -1;
 {
 name = postscriptBlueFuzz;
 value = 1;
-},
-{
-name = postscriptForceBold;
-value = 0;
-},
-{
-name = postscriptDefaultWidthX;
-value = 500;
 },
 {
 name = postscriptWeightName;

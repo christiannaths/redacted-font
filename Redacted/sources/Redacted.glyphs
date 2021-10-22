@@ -1,36 +1,16 @@
 {
 .appVersion = "3099";
 DisplayStrings = (
-"/space/uni00A0"
+"/space/space/uni00A0"
 );
 copyright = "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)";
 customParameters = (
 {
-name = hheaAscender;
-value = 975;
-},
-{
-name = hheaDescender;
-value = -175;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = preferredFamilyName;
-value = Redacted;
-},
-{
-name = preferredSubfamilyName;
-value = Regular;
-},
-{
 name = panose;
 value = (
-2,
 0,
-4,
+0,
+0,
 0,
 0,
 0,
@@ -44,157 +24,6 @@ value = (
 name = fsType;
 value = (
 );
-},
-{
-name = typoAscender;
-value = 975;
-},
-{
-name = typoDescender;
-value = -175;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1
-);
-},
-{
-name = strikeoutSize;
-value = 50;
-},
-{
-name = strikeoutPosition;
-value = 259;
-},
-{
-name = subscriptXSize;
-value = 700;
-},
-{
-name = subscriptYSize;
-value = 650;
-},
-{
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptYOffset;
-value = 143;
-},
-{
-name = superscriptXSize;
-value = 700;
-},
-{
-name = superscriptYSize;
-value = 650;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 453;
-},
-{
-name = blueScale;
-value = 0.03963;
-},
-{
-name = blueShift;
-value = 7;
-},
-{
-name = isFixedPitch;
-value = 0;
-},
-{
-name = underlinePosition;
-value = -137;
-},
-{
-name = underlineThickness;
-value = 46;
-},
-{
-name = openTypeHeadLowestRecPPEM;
-value = 3;
-},
-{
-name = openTypeNameVersion;
-value = "Version 1.001";
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
-name = postscriptSlantAngle;
-value = 0;
-},
-{
-name = postscriptBlueFuzz;
-value = 1;
-},
-{
-name = postscriptForceBold;
-value = 0;
-},
-{
-name = postscriptDefaultWidthX;
-value = 500;
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = postscriptWindowsCharacterSet;
-value = 1;
-},
-{
-name = macintoshFONDFamilyID;
-value = 128;
-},
-{
-name = macintoshFONDName;
-value = Redacted;
-},
-{
-name = styleMapFamilyName;
-value = Redacted;
-},
-{
-name = styleMapStyleName;
-value = regular;
-},
-{
-name = codePageRanges;
-value = (
-);
-},
-{
-name = winAscent;
-value = 975;
-},
-{
-name = winDescent;
-value = 175;
-},
-{
-name = weightClass;
-value = 400;
 },
 {
 name = glyphOrder;
@@ -534,10 +363,6 @@ _base
 );
 },
 {
-name = "Disable Last Change";
-value = 1;
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 },
@@ -556,14 +381,6 @@ value = "https://scripts.sil.org/OFL";
 {
 name = trademark;
 value = "No trademark claimed.";
-},
-{
-name = postscriptFontName;
-value = Redacted;
-},
-{
-name = postscriptFullName;
-value = Redacted;
 },
 {
 name = versionString;
@@ -591,10 +408,6 @@ ascender = 936;
 capHeight = 702;
 customParameters = (
 {
-name = "UFO Filename";
-value = "redacted-regular.ufo";
-},
-{
 name = hheaAscender;
 value = 975;
 },
@@ -605,38 +418,6 @@ value = -175;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = compatibleFullName;
-value = Redacted;
-},
-{
-name = preferredFamilyName;
-value = Redacted;
-},
-{
-name = preferredSubfamilyName;
-value = Regular;
-},
-{
-name = panose;
-value = (
-2,
-0,
-4,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-},
-{
-name = fsType;
-value = (
-);
 },
 {
 name = typoAscender;
@@ -651,65 +432,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = unicodeRanges;
-value = (
-0,
-1
-);
-},
-{
-name = strikeoutSize;
-value = 50;
-},
-{
-name = strikeoutPosition;
-value = 259;
-},
-{
-name = subscriptXSize;
-value = 700;
-},
-{
-name = subscriptYSize;
-value = 650;
-},
-{
-name = subscriptXOffset;
-value = 0;
-},
-{
-name = subscriptYOffset;
-value = 143;
-},
-{
-name = superscriptXSize;
-value = 700;
-},
-{
-name = superscriptYSize;
-value = 650;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 453;
-},
-{
-name = blueScale;
-value = 0.03963;
-},
-{
-name = blueShift;
-value = 7;
-},
-{
-name = isFixedPitch;
-value = 0;
-},
-{
 name = underlinePosition;
 value = -137;
 },
@@ -718,108 +440,12 @@ name = underlineThickness;
 value = 46;
 },
 {
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = trademark;
-value = "No trademark claimed.";
-},
-{
-name = postscriptFontName;
-value = Redacted;
-},
-{
-name = postscriptFullName;
-value = Redacted;
-},
-{
-name = vendorID;
-value = "";
-},
-{
-name = versionString;
-value = "Version 1.001";
-},
-{
-name = openTypeHeadLowestRecPPEM;
-value = 3;
-},
-{
-name = openTypeNameVersion;
-value = "Version 1.001";
-},
-{
-name = openTypeNameUniqueID;
-value = "Redacted; 1.001; 2013-02-26";
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-0,
-0
-);
-},
-{
-name = postscriptSlantAngle;
-value = 0;
-},
-{
-name = postscriptBlueFuzz;
-value = 1;
-},
-{
-name = postscriptForceBold;
-value = 0;
-},
-{
-name = postscriptDefaultWidthX;
-value = 500;
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = postscriptWindowsCharacterSet;
-value = 1;
-},
-{
-name = macintoshFONDFamilyID;
-value = 128;
-},
-{
-name = macintoshFONDName;
-value = Redacted;
-},
-{
-name = styleMapFamilyName;
-value = Redacted;
-},
-{
-name = styleMapStyleName;
-value = regular;
-},
-{
-name = codePageRanges;
-value = (
-);
-},
-{
 name = winAscent;
 value = 975;
 },
 {
 name = winDescent;
 value = 175;
-},
-{
-name = weightClass;
-value = 400;
 }
 );
 descender = -266;
@@ -1198,7 +824,6 @@ fl,
 _base
 );
 };
-weightValue = 400;
 xHeight = 439;
 }
 );
@@ -6505,7 +6130,6 @@ width = 375;
 );
 instances = (
 {
-interpolationWeight = 400;
 instanceInterpolations = {
 "237B83CE-018B-4A7C-B482-6F40E7877464" = 1;
 };
