@@ -373,28 +373,12 @@ name = isFixedPitch;
 value = 1;
 },
 {
-name = compatibleFullName;
-value = Redacted;
-},
-{
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
-},
-{
-name = trademark;
-value = "No trademark claimed.";
-},
-{
-name = versionString;
-value = "Version 1.001";
-},
-{
-name = uniqueID;
-value = "Redacted; 1.001; 2013-02-26";
 }
 );
 date = "2021-10-22 13:42:29 +0000";

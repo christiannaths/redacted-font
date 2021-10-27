@@ -1,7 +1,3 @@
-    sources:
-      - redacted-script-light.ufo
-      - redacted-script-regular.ufo
-      - redacted-script-bold.ufo
-buildVariable: False
-buildWebfont: False
-buildOTF: False
+  sources:
+    - RedactedScript.glyphs
+  buildVariable: False

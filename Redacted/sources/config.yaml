@@ -1,5 +1,5 @@
 sources:
   - Redacted.glyphs
-buildVariable: False
-buildWebfont: False
-buildOTF: False
+# buildVariable: False
+# buildWebfont: False
+# buildOTF: False
