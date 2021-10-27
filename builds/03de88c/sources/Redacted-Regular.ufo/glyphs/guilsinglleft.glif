@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guilsinglleft" format="1">
-  <advance width="437"/>
-  <unicode hex="2039"/>
-  <outline>
-    <component base="template.1"/>
-  </outline>
-</glyph>

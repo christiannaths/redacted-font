@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="asterisk" format="1">
-  <advance width="437"/>
-  <unicode hex="002A"/>
-  <outline>
-    <component base="template.1"/>
-  </outline>
-</glyph>
