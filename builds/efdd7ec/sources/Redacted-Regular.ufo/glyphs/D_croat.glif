@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dcroat" format="1">
-  <advance width="437"/>
-  <unicode hex="0110"/>
-  <outline>
-    <component base="template.1"/>
-  </outline>
-</glyph>
