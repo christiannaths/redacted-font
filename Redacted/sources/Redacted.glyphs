@@ -1,5 +1,5 @@
 {
-.appVersion = "3099";
+.appVersion = "3100";
 DisplayStrings = (
 "/space/space/uni00A0",
 "/space/uni00A0"
@@ -394,11 +394,11 @@ alignmentZones = (
 "{-53, 0}"
 );
 ascender = 800;
-capHeight = 800;
+capHeight = 0;
 customParameters = (
 {
 name = hheaAscender;
-value = 1000;
+value = 800;
 },
 {
 name = hheaDescender;
@@ -410,7 +410,7 @@ value = 0;
 },
 {
 name = typoAscender;
-value = 1000;
+value = 800;
 },
 {
 name = typoDescender;
@@ -422,7 +422,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 800;
 },
 {
 name = winDescent;
@@ -805,7 +805,7 @@ fl,
 _base
 );
 };
-xHeight = 500;
+xHeight = 0;
 }
 );
 glyphs = (
@@ -6139,5 +6139,5 @@ com.schriftgestaltung.Glyphs.groupsNotInFeature = (
 );
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
